@@ -5,6 +5,6 @@ main:
       weight: 100
 
     - identifier: 
-      name: Contac
-      url: /contac
+      name: Contact
+      url: /contact
       weight: 200
