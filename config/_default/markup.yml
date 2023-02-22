@@ -1,0 +1,5 @@
+oldmark:
+  renderer:
+    unsafe: true
+highlight:
+  lineNos: true
